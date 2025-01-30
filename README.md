@@ -8,4 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Kanam Latex
 - 🌱 I’m currently learning  MCA
 
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+
 -->
